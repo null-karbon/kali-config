@@ -1,5 +1,5 @@
-# kali-setup
-Initial setup of Kali for pentesting/bug hunting.
+# kali-config
+Initial configuration of Kali for pentesting/bug hunting. Tutorials and Notes to be added.
 
 ## What it does:
 - Adds a non root user with sudo.
