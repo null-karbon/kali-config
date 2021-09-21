@@ -39,16 +39,17 @@ To Do:
 2. Add git --config user.email, user.name
 3. Add linpeas/winpeas https://github.com/carlospolop/PEASS-ng
 4. Add https://github.com/cddmp/enum4linux-ng
-5. Joplin Pentest Template
-6. Useful aliases.
-7. Possibly MobSF/Android Studio.
-8. Add tool guide/tutorials.
+5. Search that hash/name that hash
+6. Joplin Pentest Template
+7. Useful aliases.
+8. Possibly MobSF/Android Studio.
+9. Add tool guide/tutorials.
    - tmux
    - gron
    - rigrep
    - gobuster
    - ffuf
    - rustscan
-9. Add https://github.com/SecureAuthCorp/impacket stuff.
-10. Add https://github.com/filedescriptor/untrusted-types.
+10. Add https://github.com/SecureAuthCorp/impacket stuff.
+11. Add https://github.com/filedescriptor/untrusted-types.
    - untrusted-types video: https://www.youtube.com/watch?v=CNNCCgDkt5k
