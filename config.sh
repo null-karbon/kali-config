@@ -47,7 +47,7 @@ usage () {
       print "${COLOR_BLUE}"
       print "Usage: $0 [OPTIONS] [ARGS]"
       print ""
-      print "Kali Setup Tool"
+      print "Kali Config Tool"
       print ""
       print "OPTIONS: "
       print "        -h                 Display this help message."
