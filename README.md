@@ -22,9 +22,9 @@ Initial configuration of Kali for pentesting/bug hunting. Tutorials and Notes to
 
 ## Running
 ```bash
-Usage:sudo ./setup.sh [OPTIONS] [ARGS]
+Usage:sudo ./config.sh [OPTIONS] [ARGS]
 
-Kali Setup Tool
+Kali Config Tool
 
 OPTIONS: 
         -h                 Display this help message.
